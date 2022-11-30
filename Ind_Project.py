@@ -7,7 +7,16 @@ Created on Thu Nov 10 16:17:05 2022
 #Notas para futuras modificaciones
 #qUITAR EL INDEX DE LAS TABLAS
 #PONER MAS INFORMACION EN LAS TABLAS
-
+pandas>=0.24.0
+numpy>=1.16.5
+requests>=2.26
+multitasking>=0.0.7
+lxml>=4.5.1
+appdirs>=1.4.4
+pytz>=2022.5
+frozendict>=2.3.4
+beautifulsoup4>=4.11.1
+html5lib>=1.1
 #Import all the libraries that are going to be used in the code
 import streamlit as st
 import yfinance as yf
