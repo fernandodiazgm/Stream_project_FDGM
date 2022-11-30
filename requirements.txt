@@ -1,0 +1,9 @@
+streamlit
+yfinance
+pandas
+numpy
+datetime
+matplotlib.pyplot
+pandas_datareader.data
+datetime
+mplfinance
